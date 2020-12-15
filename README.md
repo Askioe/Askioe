@@ -1,5 +1,5 @@
-<h1 align="center">Professional Copy and Paster Askioe</h1>
-<h3 align="center">A person who jumps from project to project constantly who never managers to finish one.</h3>
+
+<h3 align="center">Copying and Pasting till you make it...</h3>
 
 - Currently working with **C++, Python**
 - Most of my projects are privated so the world doesn't have to see the spaghetti.
