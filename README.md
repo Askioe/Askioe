@@ -1,6 +1,5 @@
 
 
-<h3 align="center">![wetakethose](https://user-images.githubusercontent.com/58087709/102179284-ba17cc80-3e5b-11eb-9c83-2585c273f064.png)</h3>
 <h3 align="center">Copying and Pasting till you make it...</h3>
 
 
