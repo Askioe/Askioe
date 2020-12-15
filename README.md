@@ -3,7 +3,6 @@
 <h3 align="center">Copying and Pasting till you make it...</h3>
 
 
-- Currently working with **C++, Python**
 - Most of my projects are privated so the world doesn't have to see the spaghetti.
 
 
