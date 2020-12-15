@@ -2,7 +2,7 @@
 <h3 align="center">A person who jumps from project to project constantly who never managers to finish one.</h3>
 
 - Currently working with **C++, Python**
-- Most of my projects are private and mostly incomplete.
+- Most of my projects are privated so the world doesn't have to see the spaghetti.
 
 
 <h3 align="left">Languages and Tools:</h3>
